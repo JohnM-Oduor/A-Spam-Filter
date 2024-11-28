@@ -23,3 +23,11 @@ A web app that detects spam messages using regular expressions. Users input a me
 1. Enter a phrase in the input area.
 2. Click the "Check message" button.
 3. The app will analyze the input and display a result indicating whether it's spam.
+## Contributing
+Contributions are welcome! To contribute:
+
+Fork the repository.
+Create a new branch (git checkout -b feature-branch-name).
+Commit your changes (git commit -m "Add feature").
+Push to the branch (git push origin feature-branch-name).
+Create a Pull Request.
