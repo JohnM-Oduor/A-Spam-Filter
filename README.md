@@ -27,7 +27,7 @@ A web app that detects spam messages using regular expressions. Users input a me
 Contributions are welcome! To contribute:
 
 Fork the repository.
-Create a new branch (git checkout -b feature-branch-name).
-Commit your changes (git commit -m "Add feature").
-Push to the branch (git push origin feature-branch-name).
-Create a Pull Request.
+1. Create a new branch (git checkout -b feature-branch-name).
+2. Commit your changes (git commit -m "Add feature").
+3. Push to the branch (git push origin feature-branch-name).
+4. Create a Pull Request.
